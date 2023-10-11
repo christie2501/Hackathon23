@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import pyperclip3
+import pyperclip
 
 st.set_page_config(page_title = "Phyto",layout="wide")
 
